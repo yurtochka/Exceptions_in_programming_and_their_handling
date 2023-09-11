@@ -7,5 +7,6 @@ public class ErrorData extends Exception{
         System.out.println();
         System.out.printf("Error data format: %s", a);
         System.out.println();
+
     }
 }

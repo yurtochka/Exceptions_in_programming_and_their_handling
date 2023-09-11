@@ -13,6 +13,5 @@ public class WriteFile {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 }

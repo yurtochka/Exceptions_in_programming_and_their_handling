@@ -19,7 +19,6 @@ public class CheckingData {
                         e.maleFemaleException(i);
                     }
                 }
-
             } else if (i.matches("\\d{1,2}\\.\\d{1,2}\\.\\d{4}")) {
                 String[] arrayDate = i.split("\\.");
                 boolean flag = true;
