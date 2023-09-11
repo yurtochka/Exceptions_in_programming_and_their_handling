@@ -19,4 +19,5 @@ public class EnteredData {
             } else System.out.println("Вы ввели больше данных, чем положено( !");
         }
     }
+
 }

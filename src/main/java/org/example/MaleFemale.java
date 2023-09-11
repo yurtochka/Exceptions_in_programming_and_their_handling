@@ -8,5 +8,6 @@ public class MaleFemale extends Exception {
         System.out.println();
         System.out.printf("Error: %s", a);
         System.out.println();
+
     }
 }

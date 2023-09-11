@@ -16,7 +16,6 @@ public class Main {
                 data = checkingData.checkEnterData();
             }
         }
-
         fileName = data.get("lastName") + ".txt";
         StringBuilder sb = new StringBuilder();
         for (String str : data.keySet()) {
